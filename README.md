@@ -17,5 +17,5 @@ La configuración del código permite validar la entrada de un nombre, ya que si
 Puedes acceder descargando los archivos en este repositorio e ingresando a la página index en el navegador.
 
 ## 	:game_die: Ponlo a prueba
-Ingresa a la página index y escribe los nombres de tus amigo para sortear y elegir a uno de ellos.
+Ingresa a la página [Amigo Secreto](https://challenge-amigo-secreto-tawny.vercel.app/) y escribe los nombres de tus amigo para sortear y elegir a uno de ellos.
 Úsalo para crear juegos y divertidas dinámicas, por ejemplo, para saber quién será el afortunado en ganar un premio :smile: o el desafortundo en recibir un castigo 	:anguished: . 
